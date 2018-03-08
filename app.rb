@@ -9,7 +9,6 @@ when "a"
 	calcA = AdvCalculator.new
 	calcA.output
 when "m"
-	calcC = Bmi.new
+	calcC = BmiCalculator.new
 	calcC.output
 end
-
